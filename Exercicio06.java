@@ -17,7 +17,6 @@ public class Exercicio06 {
 		for(int i=0; i<vetorA.length; i++) {
 			System.out.println("Entre com o valor do vetorA na posicao: "+i);
 			vetorA[i] = ler.nextInt();
-			
 		}
 		for(int i=0; i<vetorB.length; i++) {
 			System.out.println("Entre com o valor do vetorB na posicao: "+i);
